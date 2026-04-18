@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Kaif 👋
 
-<!--
-**kaif-cloud-sec/kaif-cloud-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Student  
+☁️ Interested in Cloud & AWS  
+🐍 Currently learning Python  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Goals
+- Build cybersecurity tools  
+- Learn cloud security  
+- Get an internship in cybersecurity  
+
+---
+
+## 🛠️ Skills (Learning)
+- Python  
+- Networking Basics  
+- Linux (beginner)  
+
+---
+
+## 📂 Projects
+- Coming soon 🚀
